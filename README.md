@@ -34,7 +34,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
     (_For Windows users_) Check out [this link](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64) if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 
 
-2. Place the file in the DRLND GitHub repository, in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
+2. Place the file in the root directory of GitHub repository and unzip (or decompress) the file.
 
 ### Instructions
 
